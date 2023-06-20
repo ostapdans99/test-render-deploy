@@ -1,0 +1,1 @@
+export { getDataLength } from "./getDataLength";
